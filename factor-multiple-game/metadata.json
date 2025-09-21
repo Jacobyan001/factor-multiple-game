@@ -1,0 +1,5 @@
+{
+  "name": "Factor Multiple Game",
+  "description": "A number strategy game where players choose factors or multiples of the previous number on a 10x10 grid. Play against a friend or an AI opponent.",
+  "requestFramePermissions": []
+}
